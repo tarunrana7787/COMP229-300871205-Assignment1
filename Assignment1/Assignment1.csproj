@@ -66,6 +66,13 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\assignment.JPG" />
+    <Content Include="Assets\assignment4.JPG" />
+    <Content Include="Assets\facebook-logo-4.png" />
+    <Content Include="Assets\instagram.png" />
+    <Content Include="Assets\project.JPG" />
+    <Content Include="Assets\services-home.jpg" />
+    <Content Include="Assets\Twitterbird.png" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-2.2.4.min.map" />
     <None Include="Web.Debug.config">
